@@ -33,5 +33,4 @@ void changeLights(){
     delay(4000);
     digitalWrite(red,HIGH);
     digitalWrite(yellow,LOW);
-    delay(8000);
 }
