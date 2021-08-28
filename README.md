@@ -1,2 +1,2 @@
 # arduino
-home for uno r3 programs
+uno r3 programs
